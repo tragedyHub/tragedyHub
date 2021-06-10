@@ -11,3 +11,10 @@
 ![ReactJs](https://img.shields.io/badge/-ReactJs-090909?style=for-the-badge&logo=react)
 ![Nodejs](https://img.shields.io/badge/-NodeJs-090909?style=for-the-badge&logo=javascript)
 
+### Folow me
+![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram)
+![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)
+![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tragedyHub&count_private=true&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
