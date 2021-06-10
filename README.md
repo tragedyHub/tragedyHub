@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ivan</h1>
+<h1 align="center" style="margin-bottom: 20px">Hi 👋, I'm Ivan</h1>
 
 <!-- [![Website Badge](https://img.shields.io/badge/-godslayer201.github.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https:https://godslayer201.github.io/)](https://godslayer201.github.io/) -->
 
@@ -17,7 +17,7 @@ Hi,I'm Ivan Proskurnin <img align="center" src="https://media.giphy.com/media/1f
 - 📫 How to reach me: Any of the Social-Media Platforms.
 - ✨ I'm into gaming, design and a cinema aficionado.
 - 🔭 **I’m currently working on**
-  ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Web%20Development-%7C-red) ![](https://img.shields.io/badge/Javascirpt-%7C-yellowgreen) ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+   ![](https://img.shields.io/badge/Web%20Development-%7C-red) ![](https://img.shields.io/badge/Javascirpt-%7C-yellowgreen) ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
 <b>You can site my portfolio:<b> **
 
