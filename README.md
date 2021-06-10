@@ -17,4 +17,4 @@
 ![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tragedyHub&count_private=true&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tragedyHub)
