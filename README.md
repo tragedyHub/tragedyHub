@@ -16,5 +16,7 @@
 ![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)
 ![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tragedyHub&count_private=true&show_icons=true&theme=dark)
+### Stats
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tragedyHub)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tragedyHub)
