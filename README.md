@@ -1,4 +1,4 @@
-[![Header](https://github.com/tragedyHub/tragedyHub/blob/main/assets/forest.jpg)](htttp://t.me/world_tragedy)
+[![Header](https://github.com/tragedyHub/tragedyHub/blob/main/assets/forest.jpg)](https://t.me/world_tragedy)
 
 ### I'm a middle Front-end developer
 
