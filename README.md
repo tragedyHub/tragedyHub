@@ -5,6 +5,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@ivanproskurnin-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://mobile.twitter.com/i_proskurnin_inst)](https://mobile.twitter.com/ivanproskurnin)
 [![Instagram Badge](https://img.shields.io/badge/-i.proskurnin.inst-purple?style=flat&logo=instagram&logoColor=white&link=https:https://www.instagram.com/i_proskurnin_inst/)](https://www.instagram.com/i_proskurnin_inst/)
 [![Gmail Badge](https://img.shields.io/badge/-i.business-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rachitt01@gmail.com)](mailto:ivanproskurnin.business@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-world.tragedy-black?style=flat&logo=telegram&logoColor=white&link=https://t.me/world_tragedy)](https://t.me/world_tragedy)
 <br>
 
 Hi,I'm Ivan Proskurnin <img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="50"> !
