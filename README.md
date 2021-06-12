@@ -52,6 +52,7 @@ Hi,I'm Ivan Proskurnin <img align="center" src="https://media.giphy.com/media/1f
 
 <i> Note :</i> These are not an indication of my skill level, just an overview of commits.
 
-[![Ivan Proskurnin's github stats](https://github-readme-stats.vercel.app/api?username=tragedyHub)](https://github.com/godlsayer201/github-readme-stats)
+![Ivan Proskurnin's github stats](https://github-readme-stats.vercel.app/api?username=tragedyHub)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tragedyHub&langs_count=8)
 
 <u><i><b> Feel free to fork this repo and apply this template for your own Github profile.Cheers!</i></b></u>
