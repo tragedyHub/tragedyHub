@@ -12,7 +12,7 @@ from dataclasses import asdict, dataclass
 
 @dataclass
 class Arsenal:
-    languages: tuple[str, ...] = ("Python", "JS", "ReactJS", "NestJS")
+    languages: tuple[str, ...] = ("Python", "JavaScript")
     databases: tuple[str, ...] = ("SQLite", "MongoDB")
     misc     : tuple[str, ...] = ("Docker", "Webpack")
     ongoing  : tuple[str, ...] = ("React Native", "C++")
